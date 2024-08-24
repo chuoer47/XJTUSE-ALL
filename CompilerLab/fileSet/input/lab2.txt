@@ -1,0 +1,9 @@
+j:=k+j*m
+if x then j:=j+1;
+if x then j:=j+1 else j:=j+2;
+while x do j:=j+2;
+j:=i*+1
+if x then;
+x:=(x+1)*(y/10)+z*9
+if (x+1)*(y/10)+z*9 then x:=(x+1)*(y/10)+z*9 else j:=j+2;
+while (you+always+love+me)*forever do i:=(love+u)+too;

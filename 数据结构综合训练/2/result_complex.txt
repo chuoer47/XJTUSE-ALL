@@ -1,0 +1,176 @@
+下面是Martinez, Albert (II)的关系表
+Martinez, Albert (II)--->Alcala, King	Bacon Number:1
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+
+Martinez, Albert (II)--->Alonzo, Alicia (I)	Bacon Number:1
+link is:Martinez, Albert (II)	 Alonzo, Alicia (I)	Abakada ina (2001)
+
+Martinez, Albert (II)--->Andolong, Sandy	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Andolong, Sandy	9 Mornings (2002)
+
+Martinez, Albert (II)--->Andrews, Bobby (II)	Bacon Number:1
+link is:Martinez, Albert (II)	 Andrews, Bobby (II)	Abakada ina (2001)
+
+Martinez, Albert (II)--->Aquino, Ardi	Bacon Number:1
+link is:Martinez, Albert (II)	 Aquino, Ardi	Abakada ina (2001)
+
+Martinez, Albert (II)--->Bautista, Perla	Bacon Number:1
+link is:Martinez, Albert (II)	 Bautista, Perla	'Ang Galing galing mo, Babes' (2002)
+
+Martinez, Albert (II)--->Bernales, Mina	Bacon Number:1
+link is:Martinez, Albert (II)	 Bernales, Mina	Abakada ina (2001)
+
+Martinez, Albert (II)--->Blanca, Nida	Bacon Number:1
+link is:Martinez, Albert (II)	 Blanca, Nida	Abakada ina (2001)
+
+Martinez, Albert (II)--->Bustillos, Hannah Camille	Bacon Number:1
+link is:Martinez, Albert (II)	 Bustillos, Hannah Camille	Abakada ina (2001)
+
+Martinez, Albert (II)--->Cadsawan, Polly	Bacon Number:1
+link is:Martinez, Albert (II)	 Cadsawan, Polly	Abakada ina (2001)
+
+Martinez, Albert (II)--->Castillejos, Jackie	Bacon Number:1
+link is:Martinez, Albert (II)	 Castillejos, Jackie	'Ang Galing galing mo, Babes' (2002)
+
+Martinez, Albert (II)--->Castro, April	Bacon Number:1
+link is:Martinez, Albert (II)	 Castro, April	Abakada ina (2001)
+
+Martinez, Albert (II)--->De Leon, Angelu	Bacon Number:2
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 De Leon, Angelu	Abandonada (2000)
+
+Martinez, Albert (II)--->De Leon, Matet	Bacon Number:1
+link is:Martinez, Albert (II)	 De Leon, Matet	Abakada ina (2001)
+
+Martinez, Albert (II)--->Fabregas, Jaime	Bacon Number:1
+link is:Martinez, Albert (II)	 Fabregas, Jaime	Abakada ina (2001)
+
+Martinez, Albert (II)--->Garcia, Allan	Bacon Number:1
+link is:Martinez, Albert (II)	 Garcia, Allan	Abakada ina (2001)
+
+Martinez, Albert (II)--->Homecillo, Bryan	Bacon Number:1
+link is:Martinez, Albert (II)	 Homecillo, Bryan	Abakada ina (2001)
+
+Martinez, Albert (II)--->Jimenez, Joyce	Bacon Number:1
+link is:Martinez, Albert (II)	 Jimenez, Joyce	'Ang Galing galing mo, Babes' (2002)
+
+Martinez, Albert (II)--->Llansang, Lester	Bacon Number:1
+link is:Martinez, Albert (II)	 Llansang, Lester	'Ang Galing galing mo, Babes' (2002)
+
+Martinez, Albert (II)--->Madrigal, Marcus	Bacon Number:1
+link is:Martinez, Albert (II)	 Madrigal, Marcus	'Ang Galing galing mo, Babes' (2002)
+
+Martinez, Albert (II)--->Manalo, Jay	Bacon Number:2
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Manalo, Jay	Abandonada (2000)
+
+Martinez, Albert (II)--->Manzano, Edu	Bacon Number:2
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Manzano, Edu	Abandonada (2000)
+
+Martinez, Albert (II)--->Marquez, Aiza	Bacon Number:1
+link is:Martinez, Albert (II)	 Marquez, Aiza	Abakada ina (2001)
+
+Martinez, Albert (II)--->Mauricio, Maureen	Bacon Number:2
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Mauricio, Maureen	Abandonada (2000)
+
+Martinez, Albert (II)--->Mendoza, Daisy	Bacon Number:1
+link is:Martinez, Albert (II)	 Mendoza, Daisy	Abakada ina (2001)
+
+Martinez, Albert (II)--->Montes, Pocholo	Bacon Number:1
+link is:Martinez, Albert (II)	 Montes, Pocholo	Abakada ina (2001)
+
+Martinez, Albert (II)--->Moreno, Ruby	Bacon Number:1
+link is:Martinez, Albert (II)	 Moreno, Ruby	'Ang Galing galing mo, Babes' (2002)
+
+Martinez, Albert (II)--->Nicolas, Madeleine (I)	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Nicolas, Madeleine (I)	9 Mornings (2002)
+
+Martinez, Albert (II)--->Ochoa, Dominic	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Ochoa, Dominic	9 Mornings (2002)
+
+Martinez, Albert (II)--->Ortiz, Pamela (I)	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Ortiz, Pamela (I)	9 Mornings (2002)
+
+Martinez, Albert (II)--->Panelo, Belinda	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Panelo, Belinda	9 Mornings (2002)
+
+Martinez, Albert (II)--->Pascual, Piolo	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Pascual, Piolo	9 Mornings (2002)
+
+Martinez, Albert (II)--->Paul Canero, John	Bacon Number:1
+link is:Martinez, Albert (II)	 Paul Canero, John	Abakada ina (2001)
+
+Martinez, Albert (II)--->Poe, Alex	Bacon Number:1
+link is:Martinez, Albert (II)	 Poe, Alex	Abakada ina (2001)
+
+Martinez, Albert (II)--->Quintas, Joanne	Bacon Number:1
+link is:Martinez, Albert (II)	 Quintas, Joanne	Abakada ina (2001)
+
+Martinez, Albert (II)--->Reyes, Gigette	Bacon Number:2
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Reyes, Gigette	Abandonada (2000)
+
+Martinez, Albert (II)--->Roa, Jenny (II)	Bacon Number:1
+link is:Martinez, Albert (II)	 Roa, Jenny (II)	'Ang Galing galing mo, Babes' (2002)
+
+Martinez, Albert (II)--->Rose, Donita	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Rose, Donita	9 Mornings (2002)
+
+Martinez, Albert (II)--->Schuck, Empress	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Schuck, Empress	9 Mornings (2002)
+
+Martinez, Albert (II)--->Siguion-Reyna, Armida	Bacon Number:3
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+link is:Veneracion, Ynez	 Siguion-Reyna, Armida	9 Mornings (2002)
+
+Martinez, Albert (II)--->Soriano, Cyrus	Bacon Number:1
+link is:Martinez, Albert (II)	 Soriano, Cyrus	Abakada ina (2001)
+
+Martinez, Albert (II)--->Soriano, Maricel	Bacon Number:2
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Soriano, Maricel	Abandonada (2000)
+
+Martinez, Albert (II)--->Tagle, Josie	Bacon Number:1
+link is:Martinez, Albert (II)	 Tagle, Josie	Abakada ina (2001)
+
+Martinez, Albert (II)--->Tambien, Boy	Bacon Number:1
+link is:Martinez, Albert (II)	 Tambien, Boy	Abakada ina (2001)
+
+Martinez, Albert (II)--->Tan, Joanne	Bacon Number:1
+link is:Martinez, Albert (II)	 Tan, Joanne	Abakada ina (2001)
+
+Martinez, Albert (II)--->Tolentino, Lorna	Bacon Number:1
+link is:Martinez, Albert (II)	 Tolentino, Lorna	Abakada ina (2001)
+
+Martinez, Albert (II)--->Veneracion, Ynez	Bacon Number:2
+link is:Martinez, Albert (II)	 Alcala, King	Abakada ina (2001)
+link is:Alcala, King	 Veneracion, Ynez	Abandonada (2000)
+
+Martinez, Albert (II)--->Ventoza, Archie	Bacon Number:1
+link is:Martinez, Albert (II)	 Ventoza, Archie	Abakada ina (2001)
+
+Martinez, Albert (II)--->Villarama, Tessie	Bacon Number:1
+link is:Martinez, Albert (II)	 Villarama, Tessie	Abakada ina (2001)
+
+Martinez, Albert (II)--->del Carmen, Chiqui	Bacon Number:1
+link is:Martinez, Albert (II)	 del Carmen, Chiqui	Abakada ina (2001)
+

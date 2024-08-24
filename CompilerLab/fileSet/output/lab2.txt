@@ -1,0 +1,179 @@
+2024-06-05 16:05:38.034071
+第1行
+输入：j:=k+j*m
+输出：
+(j	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+(k	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(j	,IDENTIFIER	,1)
+(*	,MULTIPLY	,16)
+(m	,IDENTIFIER	,1)
+赋值语句
+-----------------------------------------
+第2行
+输入：if x then j:=j+1;
+输出：
+(if	,IF	,8)
+(x	,IDENTIFIER	,1)
+(then	,THEN	,9)
+(j	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+(j	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(1	,CONSTANT	,2)
+(;	,SEMICOLON	,23)
+IF分支语句，嵌套赋值语句
+-----------------------------------------
+第3行
+输入：if x then j:=j+1 else j:=j+2;
+输出：
+(if	,IF	,8)
+(x	,IDENTIFIER	,1)
+(then	,THEN	,9)
+(j	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+(j	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(1	,CONSTANT	,2)
+(else	,ELSE	,10)
+(j	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+(j	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(2	,CONSTANT	,2)
+(;	,SEMICOLON	,23)
+IF分支语句，嵌套赋值语句
+-----------------------------------------
+第4行
+输入：while x do j:=j+2;
+输出：
+(while	,WHILE	,12)
+(x	,IDENTIFIER	,1)
+(do	,DO	,11)
+(j	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+(j	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(2	,CONSTANT	,2)
+(;	,SEMICOLON	,23)
+WHILE-DO循环语句，嵌套赋值语句
+-----------------------------------------
+第5行
+输入：j:=i*+1
+输出：
+(j	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+(i	,IDENTIFIER	,1)
+(*	,MULTIPLY	,16)
+(+	,PLUS	,14)
+(1	,CONSTANT	,2)
+语法错误:第5个词附近出现错误；
+详细情况: 符号为1类型为CONSTANT
+-----------------------------------------
+第6行
+输入：if x then;
+输出：
+(if	,IF	,8)
+(x	,IDENTIFIER	,1)
+(then	,THEN	,9)
+(;	,SEMICOLON	,23)
+语法错误:第2个词附近出现错误；
+详细情况: 符号为then类型为THEN
+-----------------------------------------
+第7行
+输入：x:=(x+1)*(y/10)+z*9
+输出：
+(x	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+((	,LPAREN	,18)
+(x	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(1	,CONSTANT	,2)
+()	,RPAREN	,19)
+(*	,MULTIPLY	,16)
+((	,LPAREN	,18)
+(y	,IDENTIFIER	,1)
+(/	,DIVIDE	,17)
+(10	,CONSTANT	,2)
+()	,RPAREN	,19)
+(+	,PLUS	,14)
+(z	,IDENTIFIER	,1)
+(*	,MULTIPLY	,16)
+(9	,CONSTANT	,2)
+赋值语句
+-----------------------------------------
+第8行
+输入：if (x+1)*(y/10)+z*9 then x:=(x+1)*(y/10)+z*9 else j:=j+2;
+输出：
+(if	,IF	,8)
+((	,LPAREN	,18)
+(x	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(1	,CONSTANT	,2)
+()	,RPAREN	,19)
+(*	,MULTIPLY	,16)
+((	,LPAREN	,18)
+(y	,IDENTIFIER	,1)
+(/	,DIVIDE	,17)
+(10	,CONSTANT	,2)
+()	,RPAREN	,19)
+(+	,PLUS	,14)
+(z	,IDENTIFIER	,1)
+(*	,MULTIPLY	,16)
+(9	,CONSTANT	,2)
+(then	,THEN	,9)
+(x	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+((	,LPAREN	,18)
+(x	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(1	,CONSTANT	,2)
+()	,RPAREN	,19)
+(*	,MULTIPLY	,16)
+((	,LPAREN	,18)
+(y	,IDENTIFIER	,1)
+(/	,DIVIDE	,17)
+(10	,CONSTANT	,2)
+()	,RPAREN	,19)
+(+	,PLUS	,14)
+(z	,IDENTIFIER	,1)
+(*	,MULTIPLY	,16)
+(9	,CONSTANT	,2)
+(else	,ELSE	,10)
+(j	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+(j	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(2	,CONSTANT	,2)
+(;	,SEMICOLON	,23)
+IF分支语句，嵌套赋值语句
+-----------------------------------------
+第9行
+输入：while (you+always+love+me)*forever do i:=(love+u)+too;
+输出：
+(while	,WHILE	,12)
+((	,LPAREN	,18)
+(you	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(always	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(love	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(me	,IDENTIFIER	,1)
+()	,RPAREN	,19)
+(*	,MULTIPLY	,16)
+(forever	,IDENTIFIER	,1)
+(do	,DO	,11)
+(i	,IDENTIFIER	,1)
+(:=	,ASSIGN	,26)
+((	,LPAREN	,18)
+(love	,IDENTIFIER	,1)
+(+	,PLUS	,14)
+(u	,IDENTIFIER	,1)
+()	,RPAREN	,19)
+(+	,PLUS	,14)
+(too	,IDENTIFIER	,1)
+(;	,SEMICOLON	,23)
+WHILE-DO循环语句，嵌套赋值语句
+-----------------------------------------

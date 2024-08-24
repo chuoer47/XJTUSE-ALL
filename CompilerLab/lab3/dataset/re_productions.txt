@@ -1,0 +1,388 @@
+2024-06-06 14:06:02.134777
+第1个规则:
+<s> -> ['<translation_unit>'] Select: {'null', 'int', 'long', 'short', 'float', 'double', '#'}
+-----------------------------------------
+第2个规则:
+<translation_unit> -> ['<external_declaration>', '<translation_unit>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第3个规则:
+<external_declaration> -> ['<func_declaration>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第4个规则:
+<func_declaration> -> ['<declaration_specifiers>', '<declarator>', '<declaration_list>', '<compound_stmt>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第5个规则:
+<declaration_specifiers> -> ['<type_specifier>', 'ID', 'P31'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第6个规则:
+<type_specifier> -> ['int', 'P11'] Select: {'int'}
+-----------------------------------------
+第7个规则:
+<declarator> -> ['(', '<parameter_type_list>', ')'] Select: {'('}
+-----------------------------------------
+第8个规则:
+<parameter_type_list> -> ['null'] Select: {')'}
+-----------------------------------------
+第9个规则:
+<declaration_list> -> ['null'] Select: {'null', '}', '{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第10个规则:
+<compound_stmt> -> ['{', '<declaration_list>', '<stmt_list>', '}'] Select: {'{'}
+-----------------------------------------
+第11个规则:
+<declaration_list> -> ['<declaration>', 'P22', '<declaration_list>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第12个规则:
+<declaration> -> ['<declaration_specifiers>', 'P21', ';'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第13个规则:
+<declaration_specifiers> -> ['<type_specifier>', 'ID', 'P31'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第14个规则:
+<type_specifier> -> ['int', 'P11'] Select: {'int'}
+-----------------------------------------
+第15个规则:
+<declaration_list> -> ['<declaration>', 'P22', '<declaration_list>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第16个规则:
+<declaration> -> ['<declaration_specifiers>', 'P21', ';'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第17个规则:
+<declaration_specifiers> -> ['<type_specifier>', 'ID', 'P31'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第18个规则:
+<type_specifier> -> ['float', 'P12'] Select: {'float'}
+-----------------------------------------
+第19个规则:
+<declaration_list> -> ['<declaration>', 'P22', '<declaration_list>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第20个规则:
+<declaration> -> ['<declaration_specifiers>', 'P21', ';'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第21个规则:
+<declaration_specifiers> -> ['<type_specifier>', 'ID', 'P31'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第22个规则:
+<type_specifier> -> ['int', 'P11'] Select: {'int'}
+-----------------------------------------
+第23个规则:
+<declaration_list> -> ['<declaration>', 'P22', '<declaration_list>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第24个规则:
+<declaration> -> ['<declaration_specifiers>', 'P21', ';'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第25个规则:
+<declaration_specifiers> -> ['<type_specifier>', 'ID', 'P31'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第26个规则:
+<type_specifier> -> ['float', 'P12'] Select: {'float'}
+-----------------------------------------
+第27个规则:
+<declaration_list> -> ['null'] Select: {'null', '}', '{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第28个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第29个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第30个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第31个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第32个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第33个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第34个规则:
+<constant> -> ['INT', 'P41'] Select: {'INT'}
+-----------------------------------------
+第35个规则:
+<factor_expression> -> ['null'] Select: {')', ';'}
+-----------------------------------------
+第36个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第37个规则:
+<stmt> -> ['<selection_stmt>'] Select: {'if'}
+-----------------------------------------
+第38个规则:
+<selection_stmt> -> ['if', '(', '<primary_expression>', ')', 'P81', '<stmt>', 'P82'] Select: {'if'}
+-----------------------------------------
+第39个规则:
+<primary_expression> -> ['ID', 'P51'] Select: {'ID'}
+-----------------------------------------
+第40个规则:
+<stmt> -> ['<compound_stmt>'] Select: {'{'}
+-----------------------------------------
+第41个规则:
+<compound_stmt> -> ['{', '<declaration_list>', '<stmt_list>', '}'] Select: {'{'}
+-----------------------------------------
+第42个规则:
+<declaration_list> -> ['null'] Select: {'null', '}', '{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第43个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第44个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第45个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第46个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第47个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第48个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第49个规则:
+<constant> -> ['INT', 'P41'] Select: {'INT'}
+-----------------------------------------
+第50个规则:
+<factor_expression> -> ['+', '<unary_expression>', 'P101'] Select: {'+'}
+-----------------------------------------
+第51个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第52个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第53个规则:
+<constant> -> ['INT', 'P41'] Select: {'INT'}
+-----------------------------------------
+第54个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第55个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第56个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第57个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第58个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第59个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第60个规则:
+<constant> -> ['FLOAT', 'P42'] Select: {'FLOAT'}
+-----------------------------------------
+第61个规则:
+<factor_expression> -> ['+', '<unary_expression>', 'P101'] Select: {'+'}
+-----------------------------------------
+第62个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第63个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第64个规则:
+<constant> -> ['FLOAT', 'P42'] Select: {'FLOAT'}
+-----------------------------------------
+第65个规则:
+<stmt_list> -> ['null'] Select: {'}'}
+-----------------------------------------
+第66个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第67个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第68个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第69个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第70个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第71个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第72个规则:
+<constant> -> ['FLOAT', 'P42'] Select: {'FLOAT'}
+-----------------------------------------
+第73个规则:
+<factor_expression> -> ['*', '<unary_expression>', 'P102'] Select: {'*'}
+-----------------------------------------
+第74个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第75个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第76个规则:
+<constant> -> ['FLOAT', 'P42'] Select: {'FLOAT'}
+-----------------------------------------
+第77个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第78个规则:
+<stmt> -> ['<iter_stmt>'] Select: {'while'}
+-----------------------------------------
+第79个规则:
+<iter_stmt> -> ['while', '(', '<primary_expression>', ')', 'P91', '<stmt>', 'P92'] Select: {'while'}
+-----------------------------------------
+第80个规则:
+<primary_expression> -> ['ID', 'P51'] Select: {'ID'}
+-----------------------------------------
+第81个规则:
+<stmt> -> ['<compound_stmt>'] Select: {'{'}
+-----------------------------------------
+第82个规则:
+<compound_stmt> -> ['{', '<declaration_list>', '<stmt_list>', '}'] Select: {'{'}
+-----------------------------------------
+第83个规则:
+<declaration_list> -> ['null'] Select: {'null', '}', '{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第84个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第85个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第86个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第87个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第88个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第89个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第90个规则:
+<constant> -> ['FLOAT', 'P42'] Select: {'FLOAT'}
+-----------------------------------------
+第91个规则:
+<factor_expression> -> ['null'] Select: {')', ';'}
+-----------------------------------------
+第92个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第93个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第94个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第95个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第96个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第97个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第98个规则:
+<constant> -> ['FLOAT', 'P42'] Select: {'FLOAT'}
+-----------------------------------------
+第99个规则:
+<factor_expression> -> ['null'] Select: {')', ';'}
+-----------------------------------------
+第100个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第101个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第102个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第103个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第104个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第105个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第106个规则:
+<constant> -> ['INT', 'P41'] Select: {'INT'}
+-----------------------------------------
+第107个规则:
+<factor_expression> -> ['null'] Select: {')', ';'}
+-----------------------------------------
+第108个规则:
+<stmt_list> -> ['null'] Select: {'}'}
+-----------------------------------------
+第109个规则:
+<stmt_list> -> ['<stmt>', '<stmt_list>'] Select: {'{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第110个规则:
+<stmt> -> ['<expression_stmt>'] Select: {'ID', ';'}
+-----------------------------------------
+第111个规则:
+<expression_stmt> -> ['<expression>', ';'] Select: {'ID'}
+-----------------------------------------
+第112个规则:
+<expression> -> ['ID', '=', '<unary_expression>', 'P62', '<factor_expression>', 'P61'] Select: {'ID'}
+-----------------------------------------
+第113个规则:
+<unary_expression> -> ['<primary_expression>', 'P71'] Select: {'STRING_LITERAL', 'FLOAT', 'INT', '(', 'SHORT', 'ID', 'LONG'}
+-----------------------------------------
+第114个规则:
+<primary_expression> -> ['<constant>', 'P52'] Select: {'FLOAT', 'INT', 'SHORT', 'LONG'}
+-----------------------------------------
+第115个规则:
+<constant> -> ['INT', 'P41'] Select: {'INT'}
+-----------------------------------------
+第116个规则:
+<factor_expression> -> ['null'] Select: {')', ';'}
+-----------------------------------------
+第117个规则:
+<stmt_list> -> ['null'] Select: {'}'}
+-----------------------------------------
+第118个规则:
+<translation_unit> -> ['<external_declaration>', '<translation_unit>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第119个规则:
+<external_declaration> -> ['<func_declaration>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第120个规则:
+<func_declaration> -> ['<declaration_specifiers>', '<declarator>', '<declaration_list>', '<compound_stmt>'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第121个规则:
+<declaration_specifiers> -> ['<type_specifier>', 'ID', 'P31'] Select: {'int', 'long', 'short', 'float', 'double'}
+-----------------------------------------
+第122个规则:
+<type_specifier> -> ['int', 'P11'] Select: {'int'}
+-----------------------------------------
+第123个规则:
+<declarator> -> ['(', '<parameter_type_list>', ')'] Select: {'('}
+-----------------------------------------
+第124个规则:
+<parameter_type_list> -> ['null'] Select: {')'}
+-----------------------------------------
+第125个规则:
+<declaration_list> -> ['null'] Select: {'null', '}', '{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第126个规则:
+<compound_stmt> -> ['{', '<declaration_list>', '<stmt_list>', '}'] Select: {'{'}
+-----------------------------------------
+第127个规则:
+<declaration_list> -> ['null'] Select: {'null', '}', '{', 'while', 'if', 'ID', ';'}
+-----------------------------------------
+第128个规则:
+<stmt_list> -> ['null'] Select: {'}'}
+-----------------------------------------
+第129个规则:
+<translation_unit> -> ['null'] Select: {'#'}
+-----------------------------------------

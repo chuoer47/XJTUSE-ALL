@@ -1,0 +1,362 @@
+Tom Hanks--->Bill Paxton	Bacon Number:1
+name_1:Tom Hanks	name_2:Bill Paxton	filmName:Apollo 13 (1995)
+
+Tom Hanks--->Tom Hanks	Bacon Number:0
+
+Tom Hanks--->Kevin Bacon	Bacon Number:1
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+
+Tom Hanks--->Aage Schmidt	Bacon Number:5
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Diane Lane	filmName:My Dog Skip (2000)
+name_1:Diane Lane	name_2:Max von Sydow	filmName:Judge Dredd (1995)
+name_1:Max von Sydow	name_2:Valso Holm	filmName:Spion 503 (1958)
+name_1:Valso Holm	name_2:Aage Schmidt	filmName:Begyndte ombord, Det (1937)
+
+Tom Hanks--->Valso Holm	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Diane Lane	filmName:My Dog Skip (2000)
+name_1:Diane Lane	name_2:Max von Sydow	filmName:Judge Dredd (1995)
+name_1:Max von Sydow	name_2:Valso Holm	filmName:Spion 503 (1958)
+
+Tom Hanks--->Dana Young	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:Bebe Drake	filmName:Report to the Commissioner (1975)
+name_1:Bebe Drake	name_2:Dana Young	filmName:Bersaglio mobile (1967)
+
+Tom Hanks--->Bebe Drake	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:Bebe Drake	filmName:Report to the Commissioner (1975)
+
+Tom Hanks--->Yelena Maksimova	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Elisabeth Shue	filmName:Hollow Man (2000)
+name_1:Elisabeth Shue	name_2:Lev Prygunov	filmName:Saint, The (1997)
+name_1:Lev Prygunov	name_2:Yelena Maksimova	filmName:Bezottsovshchina (1976)
+
+Tom Hanks--->Lev Prygunov	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Elisabeth Shue	filmName:Hollow Man (2000)
+name_1:Elisabeth Shue	name_2:Lev Prygunov	filmName:Saint, The (1997)
+
+Tom Hanks--->Angelo Rossitto	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:Angelo Rossitto	filmName:Dark, The (1979)
+
+Tom Hanks--->William Devane	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+
+Tom Hanks--->Edward Norton	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:Brad Pitt	filmName:Ocean's Eleven (2001)
+name_1:Brad Pitt	name_2:Edward Norton	filmName:Fight Club (1999)
+
+Tom Hanks--->Robin Williams	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:Matt Damon	filmName:Ocean's Eleven (2001)
+name_1:Matt Damon	name_2:Robin Williams	filmName:Good Will Hunting (1997)
+
+Tom Hanks--->Jacques Perrin	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Vittorio Gassman	filmName:Sleepers (1996)
+name_1:Vittorio Gassman	name_2:Jacques Perrin	filmName:Deserto dei tartari, Il (1976)
+
+Tom Hanks--->Vittorio Gassman	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Vittorio Gassman	filmName:Sleepers (1996)
+
+Tom Hanks--->A. Aaronsen	Bacon Number:61
+sorry, not found!
+
+Tom Hanks--->Z. Zakowsky	Bacon Number:61
+sorry, not found!
+
+Tom Hanks--->Brad Pitt	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:Brad Pitt	filmName:Ocean's Eleven (2001)
+
+Tom Hanks--->Julia Roberts	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+
+Tom Hanks--->Olga Baclanova	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:Angelo Rossitto	filmName:Dark, The (1979)
+name_1:Angelo Rossitto	name_2:Olga Baclanova	filmName:Freaks (1932)
+
+Tom Hanks--->Angelina Jolie	Bacon Number:3
+name_1:Tom Hanks	                name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Melissa Errico	filmName:Loverboy (2005)
+name_1:Melissa Errico	name_2:Angelina Jolie	filmName:Life or Something Like It (2002)
+
+Tom Hanks--->Nicolas Cage	Bacon Number:3
+name_1:Tom Hanks	                name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Alison Lohman	filmName:Where the Truth Lies (2005)
+name_1:Alison Lohman	name_2:Nicolas Cage	filmName:Matchstick Men (2003)
+
+Tom Hanks--->Ben Affleck	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:Matt Damon	filmName:Ocean's Eleven (2001)
+name_1:Matt Damon	name_2:Ben Affleck	filmName:Good Will Hunting (1997)
+
+Tom Hanks--->Matt Damon	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:Matt Damon	filmName:Ocean's Eleven (2001)
+
+Tom Hanks--->Minnie Driver	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:Matt Damon	filmName:Ocean's Eleven (2001)
+name_1:Matt Damon	name_2:Minnie Driver	filmName:Good Will Hunting (1997)
+
+Tom Hanks--->Elisabeth Shue	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Elisabeth Shue	filmName:Hollow Man (2000)
+
+Tom Hanks--->Steve Altes	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Steve Altes	filmName:Hollow Man (2000)
+
+Tom Hanks--->I)	Bacon Number:6
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Diane Lane	filmName:My Dog Skip (2000)
+name_1:Diane Lane	name_2:Max von Sydow	filmName:Judge Dredd (1995)
+name_1:Max von Sydow	name_2:Valso Holm	filmName:Spion 503 (1958)
+name_1:Valso Holm	name_2:Aage Schmidt	filmName:Begyndte ombord, Det (1937)
+name_1:Aage Schmidt	name_2:I)	filmName:Hvide Slavehandel, Den (1910
+
+Tom Hanks--->Christel Holch	Bacon Number:6
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Diane Lane	filmName:My Dog Skip (2000)
+name_1:Diane Lane	name_2:Max von Sydow	filmName:Judge Dredd (1995)
+name_1:Max von Sydow	name_2:Valso Holm	filmName:Spion 503 (1958)
+name_1:Valso Holm	name_2:Aage Schmidt	filmName:Begyndte ombord, Det (1937)
+name_1:Aage Schmidt	name_2:Christel Holch	filmName:Hvide Slavehandel, Den (1910
+
+Tom Hanks--->William Challee	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:William Challee	filmName:Irish Whiskey Rebellion (1972)
+
+Tom Hanks--->Max von Sydow	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Diane Lane	filmName:My Dog Skip (2000)
+name_1:Diane Lane	name_2:Max von Sydow	filmName:Judge Dredd (1995)
+
+Tom Hanks--->Diane Lane	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Diane Lane	filmName:My Dog Skip (2000)
+
+Tom Hanks--->Alec Guinness	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Theresa Russell	filmName:Wild Things (1998)
+name_1:Theresa Russell	name_2:Alec Guinness	filmName:Kafka (1991)
+
+Tom Hanks--->Theresa Russell	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Theresa Russell	filmName:Wild Things (1998)
+
+Tom Hanks--->A. Paliakov	Bacon Number:3
+name_1:Tom Hanks	name_2:Kathleen Byron	filmName:Saving Private Ryan (1998)
+name_1:Kathleen Byron	name_2:Nikolai Brilling	filmName:Otello (1955)
+name_1:Nikolai Brilling	name_2:A. Paliakov	filmName:Kutuzov (1944)
+
+Tom Hanks--->Nikolai Brilling	Bacon Number:2
+name_1:Tom Hanks	name_2:Kathleen Byron	filmName:Saving Private Ryan (1998)
+name_1:Kathleen Byron	name_2:Nikolai Brilling	filmName:Otello (1955)
+
+Tom Hanks--->Melissa Errico	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Melissa Errico	filmName:Loverboy (2005)
+
+Tom Hanks--->William Shatner	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Denise Richards	filmName:Wild Things (1998)
+name_1:Denise Richards	name_2:William Shatner	filmName:Loaded Weapon 1 (1993)
+
+Tom Hanks--->Denise Richards	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Denise Richards	filmName:Wild Things (1998)
+
+Tom Hanks--->John Lafayette	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:John Lafayette	filmName:Loverboy (2005)
+
+Tom Hanks--->Oliver Platt	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Oliver Platt	filmName:Loverboy (2005)
+
+Tom Hanks--->Alison Lohman	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Alison Lohman	filmName:Where the Truth Lies (2005)
+
+Tom Hanks--->Henry Fonda	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Robert Wagner	filmName:Wild Things (1998)
+name_1:Robert Wagner	name_2:Henry Fonda	filmName:Midway (1976)
+
+Tom Hanks--->Robert Wagner	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Robert Wagner	filmName:Wild Things (1998)
+
+Tom Hanks--->Clint Howard	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Clint Howard	filmName:My Dog Skip (2000)
+
+Tom Hanks--->Peter Crombie	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Peter Crombie	filmName:My Dog Skip (2000)
+
+Tom Hanks--->Marilyn Monroe	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:George Ives	filmName:Stir of Echoes (1999)
+name_1:George Ives	name_2:Marilyn Monroe	filmName:Niagara (1953)
+
+Tom Hanks--->George Ives	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:George Ives	filmName:Stir of Echoes (1999)
+
+Tom Hanks--->Steve Martin	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Steve Martin	filmName:Novocaine (2000)
+
+Tom Hanks--->George Clooney	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:George Clooney	filmName:Ocean's Eleven (2001)
+
+Tom Hanks--->Yelena Chaika	Bacon Number:6
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:Angelo Rossitto	filmName:Dark, The (1979)
+name_1:Angelo Rossitto	name_2:Olga Baclanova	filmName:Freaks (1932)
+name_1:Olga Baclanova	name_2:Viktor Tourjansky	filmName:Zagrobnaya skitalitsa (1915)
+name_1:Viktor Tourjansky	name_2:Yelena Chaika	filmName:Ostrov zabenya (1917)
+
+Tom Hanks--->Viktor Tourjansky	Bacon Number:5
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:Angelo Rossitto	filmName:Dark, The (1979)
+name_1:Angelo Rossitto	name_2:Olga Baclanova	filmName:Freaks (1932)
+name_1:Olga Baclanova	name_2:Viktor Tourjansky	filmName:Zagrobnaya skitalitsa (1915)
+
+Tom Hanks--->Kathleen Byron	Bacon Number:1
+name_1:Tom Hanks	name_2:Kathleen Byron	filmName:Saving Private Ryan (1998)
+
+Tom Hanks--->P. Biryukov	Bacon Number:6
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Elisabeth Shue	filmName:Hollow Man (2000)
+name_1:Elisabeth Shue	name_2:Lev Prygunov	filmName:Saint, The (1997)
+name_1:Lev Prygunov	name_2:Yelena Maksimova	filmName:Bezottsovshchina (1976)
+name_1:Yelena Maksimova	name_2:Aleksandr Gromov	filmName:Tikhij Don (1930)
+name_1:Aleksandr Gromov	name_2:P. Biryukov	filmName:Pikovaya dama (1910)
+
+Tom Hanks--->Aleksandr Gromov	Bacon Number:5
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Elisabeth Shue	filmName:Hollow Man (2000)
+name_1:Elisabeth Shue	name_2:Lev Prygunov	filmName:Saint, The (1997)
+name_1:Lev Prygunov	name_2:Yelena Maksimova	filmName:Bezottsovshchina (1976)
+name_1:Yelena Maksimova	name_2:Aleksandr Gromov	filmName:Tikhij Don (1930)
+
+Tom Hanks--->Richard Gere	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Julia Roberts	filmName:Flatliners (1990)
+name_1:Julia Roberts	name_2:Richard Gere	filmName:Pretty Woman (1990)
+
+Tom Hanks--->Patrick Stewart	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Steve Martin	filmName:Novocaine (2000)
+name_1:Steve Martin	name_2:Patrick Stewart	filmName:Prince of Egypt, The (1998)
+
+Tom Hanks--->Harrison Ford	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Steve Altes	filmName:Hollow Man (2000)
+name_1:Steve Altes	name_2:Harrison Ford	filmName:Random Hearts (1999)
+
+Tom Hanks--->Sean Connery	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Peter Crombie	filmName:My Dog Skip (2000)
+name_1:Peter Crombie	name_2:Sean Connery	filmName:Rising Sun (1993)
+
+Tom Hanks--->Theodore Hesburgh	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Gerry Becker	filmName:Sleepers (1996)
+name_1:Gerry Becker	name_2:Theodore Hesburgh	filmName:Rudy (1993)
+
+Tom Hanks--->Gerry Becker	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Gerry Becker	filmName:Sleepers (1996)
+
+Tom Hanks--->Val Kilmer	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Elisabeth Shue	filmName:Hollow Man (2000)
+name_1:Elisabeth Shue	name_2:Val Kilmer	filmName:Saint, The (1997)
+
+Tom Hanks--->Jim Carrey	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Oliver Platt	filmName:Loverboy (2005)
+name_1:Oliver Platt	name_2:Jim Carrey	filmName:Simon Birch (1998)
+
+Tom Hanks--->Zoya Barantsevich	Bacon Number:6
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:William Challee	filmName:Irish Whiskey Rebellion (1972)
+name_1:William Challee	name_2:Zoia Karabanova	filmName:Song to Remember, A (1945)
+name_1:Zoia Karabanova	name_2:Nikolai Panov	filmName:Zhenshchina s kinzhalom (1916)
+name_1:Nikolai Panov	name_2:Zoya Barantsevich	filmName:Slesar i kantzler (1923)
+
+Tom Hanks--->Nikolai Panov	Bacon Number:5
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:William Challee	filmName:Irish Whiskey Rebellion (1972)
+name_1:William Challee	name_2:Zoia Karabanova	filmName:Song to Remember, A (1945)
+name_1:Zoia Karabanova	name_2:Nikolai Panov	filmName:Zhenshchina s kinzhalom (1916)
+
+Tom Hanks--->Mark Hamill	Bacon Number:2
+name_1:Tom Hanks	name_2:Bill Paxton	filmName:Apollo 13 (1995)
+name_1:Bill Paxton	name_2:Mark Hamill	filmName:Slipstream (1989)
+
+Tom Hanks--->Carrie Fisher	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Elisabeth Shue	filmName:Hollow Man (2000)
+name_1:Elisabeth Shue	name_2:Carrie Fisher	filmName:Soapdish (1991)
+
+Tom Hanks--->Zoia Karabanova	Bacon Number:4
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:William Devane	filmName:Hollow Man (2000)
+name_1:William Devane	name_2:William Challee	filmName:Irish Whiskey Rebellion (1972)
+name_1:William Challee	name_2:Zoia Karabanova	filmName:Song to Remember, A (1945)
+
+Tom Hanks--->Beau Starr	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Beau Starr	filmName:Where the Truth Lies (2005)
+
+Tom Hanks--->Keanu Reeves	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Beau Starr	filmName:Where the Truth Lies (2005)
+name_1:Beau Starr	name_2:Keanu Reeves	filmName:Speed (1994)
+
+Tom Hanks--->Tea Leoni	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:John Lafayette	filmName:Loverboy (2005)
+name_1:John Lafayette	name_2:Tea Leoni	filmName:Switch (1991)
+
+Tom Hanks--->Gerard Depardieu	Bacon Number:3
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Clint Howard	filmName:My Dog Skip (2000)
+name_1:Clint Howard	name_2:Gerard Depardieu	filmName:Unhook the Stars (1996)
+
+Tom Hanks--->Sean Astin	Bacon Number:2
+name_1:Tom Hanks	name_2:Kevin Bacon	filmName:Apollo 13 (1995)
+name_1:Kevin Bacon	name_2:Sean Astin	filmName:White Water Summer (1987)
+

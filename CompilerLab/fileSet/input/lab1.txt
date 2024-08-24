@@ -1,0 +1,9 @@
+program example;
+var k, m, n: integer;
+begin
+k:=8;
+m:=5;
+n:=k+m;
+if n>10 then
+k:=k-1;
+end;

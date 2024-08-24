@@ -1,0 +1,665 @@
+-----------------------------
+There are 1 nodes in this BST.
+The height of this BST is 1.
+-----------------------------
+remove unsuccess ---vertebrate
+update success ---overlap overlap
+remove unsuccess ---affection
+search success ---persevere v．坚忍
+-----------------------------
+There are 11 nodes in this BST.
+The height of this BST is 5.
+-----------------------------
+update success ---pretentiousness pretentiousness
+-----------------------------
+There are 13 nodes in this BST.
+The height of this BST is 5.
+-----------------------------
+remove success ---sill n．基石，门槛，窗台
+search unsuccess ---listless
+search success ---gollop v．n．大口吞咽
+update success ---sagacious sagacious
+remove unsuccess ---propitiate
+update success ---ideology ideology
+search success ---puerile adj．幼稚的，儿童的
+update success ---laggard laggard
+search unsuccess ---penalize
+search success ---deify v．奉为神，崇拜
+search unsuccess ---midget
+search success ---mutton n．羊肉
+update success ---conflagration conflagration
+search unsuccess ---morass
+search success ---breach v．毁坏，泄密n．缺口
+search success ---sagacious sagacious
+remove success ---miscreant n．恶棍，歹徒
+-----------------------------
+There are 33 nodes in this BST.
+The height of this BST is 8.
+-----------------------------
+search unsuccess ---guarded
+search success ---sagacious sagacious
+remove unsuccess ---egalitarian
+update success ---incendiary incendiary
+search success ---nocturnal adj．夜晚的，夜间发生的
+update success ---deify deify
+remove success ---solemnity n．庄严，肃穆
+search unsuccess ---tongs
+search success ---squash v．压碎，挤压，n．南瓜
+update success ---abate abate
+-----------------------------
+There are 46 nodes in this BST.
+The height of this BST is 9.
+-----------------------------
+search unsuccess ---vaccine
+search success ---incendiary incendiary
+search unsuccess ---unctuous
+search success ---croak n．蛙鸣声
+search success ---gravel n．碎石，砂砾
+update success ---coy coy
+-----------------------------
+There are 53 nodes in this BST.
+The height of this BST is 9.
+-----------------------------
+search success ---behold v．目睹，看见
+remove success ---overlap overlap
+remove success ---pretentiousness pretentiousness
+search success ---nocturnal adj．夜晚的，夜间发生的
+update success ---mast mast
+-----------------------------
+There are 58 nodes in this BST.
+The height of this BST is 9.
+-----------------------------
+remove success ---peruse v．细读，精读
+remove success ---suffice v．足够，（食物）满足
+remove success ---upstart n．突然升官的人，暴发户
+update success ---unwieldy unwieldy
+update success ---auspices auspices
+update success ---sagacious sagacious
+search unsuccess ---infantry
+search success ---hide n．兽皮
+remove unsuccess ---recriminate
+update success ---bamboozle bamboozle
+update success ---ingress ingress
+remove success ---profundity n．深奥,深刻
+remove success ---flicker v．闪烁，摇曳
+search success ---chivalry n.骑士制度
+update success ---hepatic hepatic
+remove unsuccess ---reciprocity
+search success ---gollop v．n．大口吞咽
+search success ---liability n．倾向，债务
+search success ---veal n．小牛肉
+remove unsuccess ---throttle
+remove success ---sagacious sagacious
+remove unsuccess ---oath
+search success ---impeach v．指摘，弹劾
+remove success ---mishap n．不幸，坏运气
+-----------------------------
+There are 81 nodes in this BST.
+The height of this BST is 10.
+-----------------------------
+remove success ---malapropism n．字的误用
+remove success ---splendid adj．壮观的，极好的
+update success ---abate abate
+search unsuccess ---turbid
+search success ---ingress ingress
+search unsuccess ---whimsical
+search success ---bamboozle bamboozle
+search unsuccess ---filch
+search success ---helmsman n．舵手
+search success ---moratorium n．停止偿付，禁止
+search success ---dispatch v．派遣，一下子做完、吃完n．迅速
+remove success ---binge n.狂饮，无节制的行为
+-----------------------------
+There are 84 nodes in this BST.
+The height of this BST is 10.
+-----------------------------
+remove success ---trudge v．跋涉
+search success ---conduce tov．引起，有助于
+remove success ---hibiscus n．芙蓉，木槿
+search success ---temperamental adj．性情的，喜怒无常的
+update success ---leviathan leviathan
+search unsuccess ---malcontented
+search success ---usurp v．篡夺，霸占
+search success ---inclement adj．（天气）严酷的，严厉的
+remove success ---sprinkling n．点滴，少数
+-----------------------------
+There are 94 nodes in this BST.
+The height of this BST is 11.
+-----------------------------
+search success ---poignant adj．伤心的,尖锐的
+update success ---deify deify
+search unsuccess ---fumble
+search success ---jamb n．门窗的侧柱
+search success ---poignant adj．伤心的,尖锐的
+search success ---marsh n．沼泽地，湿地
+search unsuccess ---pertinent
+search success ---abyss n．深渊，深坑
+remove success ---groggy adj．体弱的，不稳的
+update success ---colt colt
+-----------------------------
+There are 101 nodes in this BST.
+The height of this BST is 11.
+-----------------------------
+search success ---orientation n．定向
+update success ---dispatch dispatch
+update success ---unwieldy unwieldy
+search success ---exultant adj．愉悦的
+-----------------------------
+There are 104 nodes in this BST.
+The height of this BST is 11.
+-----------------------------
+-----------------------------
+There are 104 nodes in this BST.
+The height of this BST is 11.
+-----------------------------
+search unsuccess ---brute
+search success ---leviathan leviathan
+remove success ---temperamental adj．性情的，喜怒无常的
+remove success ---bane n.祸根
+remove success ---inflamed adj．发炎的，红肿的
+remove unsuccess ---gloaming
+remove success ---breach v．毁坏，泄密n．缺口
+-----------------------------
+There are 110 nodes in this BST.
+The height of this BST is 10.
+-----------------------------
+search success ---insubordinate adj．不服从的，反抗的
+search success ---paean n．赞美歌，颂歌
+update success ---bamboozle bamboozle
+-----------------------------
+There are 112 nodes in this BST.
+The height of this BST is 10.
+-----------------------------
+update success ---statute statute
+search unsuccess ---foment
+search success ---prevail v．战胜,盛行
+remove success ---persevere v．坚忍
+remove success ---sonata n．奏鸣曲
+-----------------------------
+There are 111 nodes in this BST.
+The height of this BST is 10.
+-----------------------------
+remove success ---incendiary incendiary
+remove unsuccess ---gloom
+search success ---ingress ingress
+search unsuccess ---complacent
+search success ---psalm n．赞美诗,圣诗
+search unsuccess ---scorn
+search success ---puerile adj．幼稚的，儿童的
+search success ---interlocutor n．对话者,谈话者
+remove success ---whimsical adj．古怪的，异想天开的
+update success ---fretful fretful
+remove success ---chorus n．合唱队，歌舞团
+update success ---usurp usurp
+search success ---interlace v．编织,交错
+search success ---hepatic hepatic
+update success ---dictum dictum
+update success ---croak croak
+search unsuccess ---sparkle
+search success ---conceive v．怀孕，构想
+-----------------------------
+There are 126 nodes in this BST.
+The height of this BST is 11.
+-----------------------------
+remove success ---retaliate v．报复，反击
+search unsuccess ---banner
+search success ---paean n．赞美歌，颂歌
+-----------------------------
+There are 134 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove success ---conceive v．怀孕，构想
+update success ---jamb jamb
+remove success ---veal n．小牛肉
+-----------------------------
+There are 134 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove success ---meritorious adj．值得赞赏的
+update success ---aseptic aseptic
+remove unsuccess ---tardy
+-----------------------------
+There are 134 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove success ---swerve v．转向，突然改变方向
+remove success ---felicity n．幸福，适当的措辞
+remove success ---alteration n．改变，变更
+update success ---torrid torrid
+search unsuccess ---gratis
+search success ---inexorable adj．不为所动的，坚决不变的
+remove success ---supple adj伸屈自如的，灵活的
+-----------------------------
+There are 135 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove success ---bauxite n.铝土岩(产铝的矿土、石)
+search success ---rampant adj．蔓生的，猖獗的
+search success ---singe v．（轻微地）烧焦，烫焦
+-----------------------------
+There are 137 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+-----------------------------
+There are 137 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+update success ---snarl snarl
+update success ---tournament tournament
+search success ---moor n．旷野地，荒野v．使（船）停泊
+remove success ---corpulence n．肥胖，臃肿
+-----------------------------
+There are 139 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove success ---ingress ingress
+remove success ---serendipity n．善于发掘新奇事物的天赋
+search success ---gnome n．地下宝藏的守护神，地精，格言
+-----------------------------
+There are 145 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove success ---flippancy n．无礼，言语尖刻
+-----------------------------
+There are 145 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+update success ---terpsichorean terpsichorean
+remove unsuccess ---adopt
+search unsuccess ---ecstasy
+search success ---impeach v．指摘，弹劾
+search success ---sleek v．（使）光滑，adj．光滑的，整洁的
+remove unsuccess ---trauma
+search success ---amorphous adj．无定形的，散漫的
+remove success ---bicker n.v.争吵，口角
+-----------------------------
+There are 161 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove unsuccess ---autonomy
+search success ---abysmal adj．极深的，糟透的
+update success ---irate irate
+remove success ---inexorable adj．不为所动的，坚决不变的
+remove unsuccess ---promptness
+update success ---kangaroo kangaroo
+remove unsuccess ---opponent
+update success ---poignant poignant
+update success ---hood hood
+remove success ---interlocutor n．对话者,谈话者
+search success ---colt n.小雄驹
+remove unsuccess ---relevance
+-----------------------------
+There are 171 nodes in this BST.
+The height of this BST is 12.
+-----------------------------
+remove unsuccess ---allurement
+remove unsuccess ---pesky
+search success ---lineal adj．直系的，嫡系的
+update success ---enzyme enzyme
+remove success ---helmsman n．舵手
+search unsuccess ---exponent
+search success ---quitter n．遇困难即放弃者
+update success ---nebula nebula
+search unsuccess ---prorogue
+search success ---paean n．赞美歌，颂歌
+search success ---coagulant n.凝结剂
+-----------------------------
+There are 183 nodes in this BST.
+The height of this BST is 13.
+-----------------------------
+update success ---omission omission
+remove success ---abet v．教唆，协助（罪犯）
+remove success ---computation n．计算
+search unsuccess ---reverence
+search success ---sleek v．（使）光滑，adj．光滑的，整洁的
+search success ---croak croak
+search success ---moor n．旷野地，荒野v．使（船）停泊
+search success ---bamboozle bamboozle
+remove success ---melodious adj．悦耳的
+search unsuccess ---anomalous
+search success ---fern n．羊齿植物，蕨
+update success ---snarl snarl
+-----------------------------
+There are 190 nodes in this BST.
+The height of this BST is 13.
+-----------------------------
+remove success ---psalm n．赞美诗,圣诗
+search unsuccess ---oracle
+search success ---soprano n女高音，最高者
+remove success ---nuptials n．婚礼
+remove unsuccess ---canyon
+remove success ---conduce tov．引起，有助于
+remove unsuccess ---pinch
+search success ---dictum dictum
+remove unsuccess ---quisling
+remove success ---deflect v．偏离，转向
+update success ---mattress mattress
+search success ---acquaintance n．熟知，熟人
+update success ---penury penury
+remove success ---rampant adj．蔓生的，猖獗的
+search success ---circumvent v.用计谋战胜，规避
+remove unsuccess ---drenched
+search success ---clientele n.(医生、律师的)顾客，(商店的)常客
+-----------------------------
+There are 206 nodes in this BST.
+The height of this BST is 13.
+-----------------------------
+search success ---contumacy n．抗命，不服从
+search success ---dispatch dispatch
+search success ---amorphous adj．无定形的，散漫的
+search unsuccess ---notability
+search success ---statute statute
+search success ---squash v．压碎，挤压，n．南瓜
+update success ---fusillade fusillade
+-----------------------------
+There are 209 nodes in this BST.
+The height of this BST is 13.
+-----------------------------
+update success ---inclement inclement
+remove success ---fugitive adj．逃亡的，易逝的n．逃犯，逃亡者
+update success ---leviathan leviathan
+search success ---snarl snarl
+-----------------------------
+There are 218 nodes in this BST.
+The height of this BST is 13.
+-----------------------------
+-----------------------------
+There are 218 nodes in this BST.
+The height of this BST is 13.
+-----------------------------
+remove success ---imaginary adj．虚构的
+remove success ---diurnal adj．白昼的，白天的
+search unsuccess ---ornate
+search success ---jinx n.不祥的人(或物)
+update success ---behold behold
+search success ---abate abate
+update success ---munificent munificent
+remove success ---penetrate v．刺穿，渗入，了解
+search unsuccess ---altar
+search success ---tranquillizer n．镇定剂
+search unsuccess ---choppy
+search success ---repellent adj．令人厌恶的
+search unsuccess ---complaisant
+search success ---protract v．延长,拖长
+update success ---banality banality
+remove success ---saunter v．n．闲逛，漫步
+-----------------------------
+There are 233 nodes in this BST.
+The height of this BST is 14.
+-----------------------------
+update success ---morale morale
+remove success ---derivative adj．派生的，无创意的
+update success ---concussion concussion
+-----------------------------
+There are 233 nodes in this BST.
+The height of this BST is 14.
+-----------------------------
+search success ---bawl v.大叫,大喊
+-----------------------------
+There are 234 nodes in this BST.
+The height of this BST is 14.
+-----------------------------
+search success ---null 
+remove success ---moratorium n．停止偿付，禁止
+remove unsuccess ---fleeting
+update success ---poignant poignant
+search success ---hood hood
+search success ---fern n．羊齿植物，蕨
+remove unsuccess ---gratuitous
+search success ---tournament tournament
+update success ---anode anode
+update success ---irate irate
+search unsuccess ---gross
+search success ---iguana n.美洲大蜥蜴
+update success ---stapler stapler
+update success ---penury penury
+update success ---oesophagus oesophagus
+search success ---stapler stapler
+search success ---mattress mattress
+search success ---provocation n．激怒
+update success ---exultant exultant
+remove unsuccess ---furlough
+remove unsuccess ---disdainful
+update success ---oratorio oratorio
+search success ---anode anode
+search success ---termite n．白蚁
+remove success ---jinx n.不祥的人(或物)
+remove success ---acquaintance n．熟知，熟人
+search success ---drawl v．慢吞吞说，拉长腔调说
+remove success ---drawl v．慢吞吞说，拉长腔调说
+update success ---aversion aversion
+update success ---delectation delectation
+-----------------------------
+There are 262 nodes in this BST.
+The height of this BST is 15.
+-----------------------------
+update success ---ideology ideology
+update success ---circumvent circumvent
+remove success ---interlace v．编织,交错
+update success ---snaky snaky
+update success ---immutable immutable
+search success ---caustic adj．腐蚀性的，刻薄的
+-----------------------------
+There are 266 nodes in this BST.
+The height of this BST is 15.
+-----------------------------
+search success ---solidarity n．团结，一致
+remove unsuccess ---simulated
+-----------------------------
+There are 269 nodes in this BST.
+The height of this BST is 15.
+-----------------------------
+remove success ---coy coy
+update success ---mortify mortify
+update success ---rotary rotary
+remove success ---snaky snaky
+remove success ---perception n．洞察力，理解力
+search success ---speculate v．沉思，思索，投机
+remove unsuccess ---renowned
+search unsuccess ---oasis
+search success ---nippy adj.辛辣的，寒冷的
+search unsuccess ---salmon
+search success ---abysmal adj．极深的，糟透的
+search unsuccess ---equitable
+search success ---compere n.节目主持人，司仪，v.主持(节目)
+-----------------------------
+There are 283 nodes in this BST.
+The height of this BST is 15.
+-----------------------------
+update success ---jamb jamb
+remove success ---spiral n．螺旋，螺线
+remove success ---synoptic adj．摘要的，高瞻远瞩的
+remove success ---colt n.小雄驹
+search success ---expend v.花费,用光
+update success ---penury penury
+remove success ---pedigree n.家谱，纯种系谱
+remove success ---spiny adj．针状的，多刺的
+update success ---interlock interlock
+remove unsuccess ---obsequious
+remove unsuccess ---entwine
+remove success ---quitter n．遇困难即放弃者
+search success ---croak croak
+search success ---hoop n．（桶之）箍，铁环
+search success ---velocity n．速度，迅速
+update success ---paean paean
+search unsuccess ---exacerbate
+search success ---inclement inclement
+update success ---sophism sophism
+search unsuccess ---redeem
+search success ---gauge n．标准规格，测量仪
+remove success ---prevail v．战胜,盛行
+remove success ---primp v．(妇女)刻意打扮
+-----------------------------
+There are 300 nodes in this BST.
+The height of this BST is 15.
+-----------------------------
+remove success ---stipulate v，要求以…为条件，约定
+update success ---piercing piercing
+search success ---inaugurate v．举行就职典礼，开创
+remove success ---flush n．v．脸红，奔流
+search unsuccess ---veal
+remove success ---baroque n.adj.(艺术、建筑等)高度装饰的，过份雕琢的
+search success ---omission omission
+search success ---traduce v．中伤，诽谤
+remove success ---legislature n．立法机关
+update success ---temerity temerity
+search unsuccess ---relaxation
+search success ---leviathan leviathan
+remove unsuccess ---accommodating
+search success ---insufferable adj．无法忍受的
+update success ---rotary rotary
+remove success ---schematic adj．扼要的，图解的
+remove success ---gangling adj.瘦长得难看的
+update success ---pertinent pertinent
+-----------------------------
+There are 328 nodes in this BST.
+The height of this BST is 16.
+-----------------------------
+remove success ---inaugurate v．举行就职典礼，开创
+search success ---deify deify
+remove success ---raucous adj．（声音）沙哑的，粗糙的
+remove success ---superfluous adj．多余的，累赘的
+update success ---sleek sleek
+search success ---marsh n．沼泽地，湿地
+search success ---icon n．圣像，偶像
+search unsuccess ---interpolate
+search success ---obbligato n.伴奏
+search success ---depreciate v．贬低，贬值
+remove unsuccess ---blase
+remove success ---estate n.等级,地产
+-----------------------------
+There are 332 nodes in this BST.
+The height of this BST is 16.
+-----------------------------
+update success ---scrutinize scrutinize
+search success ---aseptic aseptic
+update success ---showpiece showpiece
+search unsuccess ---permissive
+search success ---expiration n.期满,终止
+remove unsuccess ---rebarbative
+search success ---plume n．羽毛v．整理羽毛,骚首弄姿
+remove unsuccess ---outset
+remove unsuccess ---assault
+-----------------------------
+There are 338 nodes in this BST.
+The height of this BST is 16.
+-----------------------------
+remove success ---slumber v．n．睡眠，安睡
+remove unsuccess ---supersede
+update success ---iguana iguana
+remove unsuccess ---dispensable
+remove unsuccess ---accessible
+search success ---demesne n.领地，范围
+search success ---botanical adj．植物（学）的
+search success ---poniard n．匕首,短剑
+remove unsuccess ---gangling
+search success ---insubordinate adj．不服从的，反抗的
+remove success ---timbre n．（音乐）音色，音质
+remove success ---perigee n．近地点
+search unsuccess ---contrition
+search success ---divergence n．分歧，分开
+update success ---lunatic lunatic
+update success ---tranquillizer tranquillizer
+remove unsuccess ---mime
+remove success ---mattress mattress
+update success ---hinterland hinterland
+update success ---chivalry chivalry
+search unsuccess ---preservative
+search success ---gravel n．碎石，砂砾
+update success ---repugnant repugnant
+update success ---renaissance renaissance
+search success ---herd n．兽群。v．聚集，放牧
+remove unsuccess ---adornment
+remove unsuccess ---confirmed
+search success ---texture n．质地，结构
+search unsuccess ---chorus
+-----------------------------
+There are 384 nodes in this BST.
+The height of this BST is 16.
+-----------------------------
+update success ---bubble bubble
+search unsuccess ---exalt
+search success ---poniard n．匕首,短剑
+remove success ---abolition n．废除，革除
+remove unsuccess ---wheedle
+search unsuccess ---lingual
+search success ---clandestine adj.秘密的，暗中从事的
+remove unsuccess ---fume
+search success ---ulterior adj．较晚的，较远的，不可告人的
+remove success ---hygroscopic n.易湿的，吸湿的
+search unsuccess ---burrow
+search success ---torrid torrid
+remove unsuccess ---unalloyed
+remove unsuccess ---onslaught
+update success ---exhortation exhortation
+remove success ---macabre adj．骇人的，可怖的
+search unsuccess ---restorative
+search success ---pawky adj.精明的，活泼的
+search unsuccess ---incognito
+search success ---dispatch dispatch
+remove success ---ulterior adj．较晚的，较远的，不可告人的
+remove unsuccess ---intercept
+update success ---leakage leakage
+-----------------------------
+There are 399 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+update success ---appreciable appreciable
+remove success ---sequester v．（使）隐退，隐居
+remove success ---tempo n．（动作、生活的）步调，速度
+-----------------------------
+There are 399 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+-----------------------------
+There are 402 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+-----------------------------
+There are 402 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+search success ---renaissance renaissance
+update success ---caste caste
+update success ---behold behold
+search success ---satiate v．使饱足，生腻
+search success ---stapler stapler
+search success ---tiff v．n．吵嘴，呕气
+remove success ---antedate （在信、文件上）写上较早日期
+search success ---zephyr n．和风，西风
+search success ---expend v.花费,用光
+remove success ---permeable adj．可渗透的
+update success ---toupee toupee
+-----------------------------
+There are 410 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+remove success ---aperitif n.开胃酒
+search unsuccess ---crudity
+search success ---icon n．圣像，偶像
+-----------------------------
+There are 412 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+update success ---orientation orientation
+update success ---credence credence
+search success ---zephyr n．和风，西风
+remove success ---supplicate v．恳求，乞求
+search success ---dynamite n．炸药，扣人心弦的事
+remove unsuccess ---scurrilous
+remove unsuccess ---regiment
+search unsuccess ---ply
+search success ---ellipsis n省略
+-----------------------------
+There are 417 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+remove unsuccess ---arsonist
+search unsuccess ---vandalism
+search success ---royalty n．皇室，版税（付给著作人的钱）
+-----------------------------
+There are 424 nodes in this BST.
+The height of this BST is 17.
+-----------------------------
+remove success ---gambol n．雀跃，嬉戏
+remove unsuccess ---doting

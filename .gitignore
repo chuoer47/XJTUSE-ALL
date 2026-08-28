@@ -1,0 +1,14 @@
+# IDE
+/.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Claude Code local plan
+/.claude/
